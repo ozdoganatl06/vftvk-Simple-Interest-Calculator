@@ -13,7 +13,7 @@ body {
     border-radius: 25px;
     margin-left: auto;
     margin-right: auto;
-align-content: center;
+    align-content: center;
   
 
 
@@ -49,6 +49,7 @@ p{
 table td
 {
     padding-bottom: 10px;
+    
 }
 
 #compute
@@ -77,6 +78,16 @@ table td
 .labels
 {
     width: 100px;
+    text-align: left;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.everyone
+{
+    width: 300px;
+    text-align : left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 330px;
 }
 
 .highlight
