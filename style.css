@@ -29,6 +29,14 @@ body {
     font-family: Arial, Helvetica, sans-serif, Courier, monospace, Helvetica, sans-serif;
     text-align: center;
     
+    
+ }
+ h2{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+    
  }
  hr{
     background: white;
